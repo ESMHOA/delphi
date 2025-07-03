@@ -1,0 +1,16 @@
+[16-Sep-2024 21:27:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 59
+[16-Sep-2024 21:27:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 72
+[16-Sep-2024 21:48:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 59
+[16-Sep-2024 21:55:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 72
+[16-Sep-2024 22:26:05 UTC] PHP Notice:  Undefined index: AmilNo in /home/delphic1/public_html/delphiecom/controllers/MainController.php on line 16
+[16-Sep-2024 22:26:37 UTC] PHP Notice:  Undefined index: AmilNo in /home/delphic1/public_html/delphiecom/controllers/MainController.php on line 16
+[17-Sep-2024 01:07:13 UTC] PHP Notice:  Undefined index: AmilNo in /home/delphic1/public_html/delphiecom/controllers/MainController.php on line 16
+[17-Sep-2024 01:41:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 59
+[17-Sep-2024 01:41:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 72
+[17-Sep-2024 01:41:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 59
+[17-Sep-2024 01:41:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 72
+[17-Sep-2024 02:12:52 UTC] PHP Notice:  Undefined index: AmilNo in /home/delphic1/public_html/delphiecom/controllers/LoginController.php on line 18
+[17-Sep-2024 02:12:52 UTC] PHP Notice:  Undefined index: Passworda in /home/delphic1/public_html/delphiecom/controllers/LoginController.php on line 19
+[17-Sep-2024 05:18:33 UTC] PHP Notice:  Undefined index: AmilNo in /home/delphic1/public_html/delphiecom/controllers/MainController.php on line 16
+[17-Sep-2024 10:48:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 59
+[17-Sep-2024 15:22:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/delphic1/public_html/delphiecom/controllers/InvoiceController.php on line 72
