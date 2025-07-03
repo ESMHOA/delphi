@@ -1,9 +1,9 @@
 
 <?php
 $host = 'localhost';
-$db   = 'delphic1_kass';
-$user = 'delphic1_delphic1';
-$pass = 'Esm0925869470';
+$db   = '';
+$user = '';
+$pass = '';
 $charset = 'utf8mb4';
 
 $options = [
